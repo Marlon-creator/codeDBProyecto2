@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wWS3Ve3iTL3htvaZjuiwYROp2kRj/Kmds7m8FKu1aIAoepf1frDKe7u5GEoKEV/VyyvTc4QVuwuVGf+EXwPewA==",
+  "dgSpecHash": "OK9JneOuCawqblpAl6opADJOJfqcrmmgbbXR8Vu6cFMDD1GE6SycelM7sHRIBDIMbEpiGFbE/8LBogxQXytr/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\source\\repos\\BaseDatosTarea1\\BaseDatosTarea1\\BaseDatosTarea1.csproj",
+  "projectFilePath": "C:\\Users\\david\\Documents\\GitHub\\codeDBProyecto2\\BaseDatosTarea1\\BaseDatosTarea1\\BaseDatosTarea1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
