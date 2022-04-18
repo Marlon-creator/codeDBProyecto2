@@ -9691,11 +9691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\source\\repos\\BaseDatosTarea1\\BaseDatosTarea1\\BaseDatosTarea1.csproj",
+      "projectUniqueName": "C:\\Users\\david\\Documents\\GitHub\\codeDBProyecto2\\BaseDatosTarea1\\BaseDatosTarea1\\BaseDatosTarea1.csproj",
       "projectName": "BaseDatosTarea1",
-      "projectPath": "C:\\Users\\david\\source\\repos\\BaseDatosTarea1\\BaseDatosTarea1\\BaseDatosTarea1.csproj",
+      "projectPath": "C:\\Users\\david\\Documents\\GitHub\\codeDBProyecto2\\BaseDatosTarea1\\BaseDatosTarea1\\BaseDatosTarea1.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\source\\repos\\BaseDatosTarea1\\BaseDatosTarea1\\obj\\",
+      "outputPath": "C:\\Users\\david\\Documents\\GitHub\\codeDBProyecto2\\BaseDatosTarea1\\BaseDatosTarea1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

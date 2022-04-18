@@ -1,30 +1,20 @@
 ﻿@model IEnumerable<BaseDatosTarea1.Models.Empleado>
 
-
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Filtro";
 }
 
-<h1>Index</h1>
+<h1>Filtro</h1>
 
-<pc>
-    <a asp-action="Create" class="me-4">Crear nuevo</a>
-
-</pc>
-
-
-        <input class="col-3" type="text" class="form-control" />
-        <input type="submit" value="Filtrar" class="btn btn-primary" />
-
-
-
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
 <table class="table">
     <thead>
         <tr>
             <th>
                 @Html.DisplayNameFor(model => model.Nombre)
             </th>
-
             <th>
                 @Html.DisplayNameFor(model => model.Puesto)
             </th>
@@ -42,8 +32,8 @@
                 @Html.DisplayFor(modelItem => item.Puesto)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Borrar</a>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
             </td>
         </tr>
 }

@@ -36,7 +36,12 @@ namespace BaseDatosTarea1.Models
             return this.Empleados.FromSqlRaw("EXECUTE dbo.ListarEmpleados");
         }
 
+        public IQueryable<Empleado> GetEmpleadosFiltro(SqlParameter nombre)
+        {
+            return this.Empleados.FromSqlRaw("EXECUTE dbo.ListarEmpleadosFiltro @inPatron", nombre);
+        }
 
+        
 
 
 

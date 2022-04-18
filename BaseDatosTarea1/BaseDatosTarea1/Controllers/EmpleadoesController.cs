@@ -28,7 +28,6 @@ namespace BaseDatosTarea1.Controllers
 
         }
 
-
         // GET: Empleadoes/Create
         public IActionResult Create()
         {
